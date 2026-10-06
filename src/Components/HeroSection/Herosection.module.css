@@ -1,0 +1,32 @@
+.MainSection {
+  background-image: url(../../assets/Main\ Task/sunnyside-agency-landing-page-main/images/desktop/image-header.jpg);
+  background-position: center center;
+  background-size: cover;
+  height: 100vh;
+}
+.MainSectionText {
+  color: white;
+  font-size: 65px;
+  letter-spacing: 10px;
+  text-transform: uppercase;
+  font-family: "Fraunces", sans-serif;
+}
+
+@media screen and (max-width: 576px) {
+  .MainSection {
+    background-image: url(../../assets/Main\ Task/sunnyside-agency-landing-page-main/images/mobile/image-header.jpg);
+    background-position: center center;
+    background-size: cover;
+    height: 100vh;
+  }
+  .MainSectionText {
+    color: white;
+    font-size: 50px;
+    letter-spacing: 10px;
+    padding-top: 50px;
+    text-transform: uppercase;
+    font-family: "Fraunces", sans-serif;
+  }
+  .MainSectionArrow{
+  }
+}
