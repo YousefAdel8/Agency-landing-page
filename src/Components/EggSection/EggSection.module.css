@@ -1,0 +1,26 @@
+.EggSection{
+    min-height: 80vh;
+}
+
+.Eggimage{
+    background-image: url(../../assets/Main\ Task/sunnyside-agency-landing-page-main/images/desktop/image-transform.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 400px;
+}
+
+.EggText{
+  max-width: 400px;
+}
+.EggTextH2{
+    max-width: 250px;
+}
+
+.EggTextLink{
+    text-decoration: underline;
+    text-decoration-color: #f4d403;
+    text-underline-offset: 4px;
+    cursor: pointer;
+    color: black;
+}

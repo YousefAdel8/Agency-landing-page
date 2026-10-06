@@ -3,6 +3,7 @@ import styles from "./Herosection.module.css";
 export default function HeroSection() {
   return (
     <>
+    {/* Main Section */}
       <div className={`${styles.MainSection} `}>
         <nav className="navbar navbar-expand-lg">
           <div className="container-fluid px-4 px-lg-5">
