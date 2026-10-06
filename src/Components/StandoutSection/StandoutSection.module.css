@@ -1,0 +1,26 @@
+.StandoutSection{
+    min-height: 80vh;
+}
+
+.Standoutimage{
+    background-image: url(../../assets/Main\ Task/sunnyside-agency-landing-page-main/images/desktop/image-stand-out.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 400px;
+}
+
+.StandoutText{
+  max-width: 350px;
+}
+.StandoutTextH2{
+    max-width: 350px;
+}
+
+.StandoutTextLink{
+    text-decoration: underline;
+    text-decoration-color: #ff7063;
+    text-underline-offset: 4px;
+    cursor: pointer;
+    color: black;
+}
