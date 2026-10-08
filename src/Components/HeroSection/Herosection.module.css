@@ -21,12 +21,9 @@
   }
   .MainSectionText {
     color: white;
-    font-size: 50px;
-    letter-spacing: 10px;
+    font-size: 30px;
     padding-top: 50px;
     text-transform: uppercase;
     font-family: "Fraunces", sans-serif;
-  }
-  .MainSectionArrow{
   }
 }
