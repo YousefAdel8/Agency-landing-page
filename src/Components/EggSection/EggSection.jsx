@@ -6,7 +6,7 @@ export default function EggSection() {
       <div className={`container-fluid  ${Styles.EggSection}`}>
         <div className={`row ${Styles.EggSection}`}>
           {/* Left Section */}
-          <div className="col-md-6 col-12 order-2 order-md-1 d-flex justify-content-center align-items-center flex-column">
+          <div className="col-md-6 col-12 order-2 order-md-1 d-flex justify-content-center align-items-center flex-column py-4 py-md-0">
             <div className={`${Styles.EggText}`}>
               <h2 className={`fw-bolder ${Styles.EggTextH2} ${Styles.FrauncesFont} pb-md-3`}>Transform your Brand</h2>
               <p className={`pb-md-2 ${Styles.EggParagraph}`}>

@@ -8,7 +8,7 @@ export default function StandoutSection() {
           {/* Left Section */}
           <div className={`col-md-6 col-12 ${Styles.Standoutimage}`}></div>
           {/* Right Section */}
-          <div className="col-md-6 col-12 d-flex justify-content-center align-items-center flex-column">
+          <div className="col-md-6 col-12 d-flex justify-content-center align-items-center flex-column py-4 py-md-0">
             <div className={`${Styles.StandoutText}`}>
               <h2 className={`fw-bolder ${Styles.StandoutTextH2} ${Styles.FrauncesFont} pb-md-3`}>
                 Stand out to the right audience
