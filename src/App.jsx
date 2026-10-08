@@ -3,6 +3,7 @@ import EggSection from './Components/EggSection/EggSection'
 import GraphicSection from './Components/GraphicSection/GraphicSection'
 import Herosection from './Components/HeroSection/Herosection'
 import StandoutSection from './Components/StandoutSection/StandoutSection'
+import TestimonialsSection from './Components/TestimonialsSection/TestimonialsSection'
 
 export default function App() {
 
@@ -12,6 +13,7 @@ export default function App() {
       <EggSection/>
       <StandoutSection/>
       <GraphicSection/>
+      <TestimonialsSection/>
     </>
   )
 }

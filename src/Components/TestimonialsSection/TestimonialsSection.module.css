@@ -1,0 +1,20 @@
+.FrauncesFont {
+  font-family: "Fraunces", sans-serif;
+}
+
+.TestimonialsH2 {
+  font-size: 23px;
+  letter-spacing: 3px;
+  text-transform: uppercase;
+  text-align: center;
+  color: #a7a7a7;
+}
+
+.TestimonialsParagraph{
+    font-size: 17px;
+    font-weight: 500;
+    color: #606267;
+}
+.TestimonialsJob{
+   color: #b2b0b0;
+}

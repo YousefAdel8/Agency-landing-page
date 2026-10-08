@@ -16,7 +16,9 @@
 .StandoutTextH2{
     max-width: 350px;
 }
-
+.StandoutTextParagraph{
+    color:#85838e;
+}
 .FrauncesFont{
     font-family: "Fraunces", sans-serif;
 }

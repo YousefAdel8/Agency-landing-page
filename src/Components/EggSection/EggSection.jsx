@@ -9,7 +9,7 @@ export default function EggSection() {
           <div className="col-md-6 col-12 order-2 order-md-1 d-flex justify-content-center align-items-center flex-column">
             <div className={`${Styles.EggText}`}>
               <h2 className={`fw-bolder ${Styles.EggTextH2} ${Styles.FrauncesFont} pb-md-3`}>Transform your Brand</h2>
-              <p className="pb-md-2">
+              <p className={`pb-md-2 ${Styles.EggParagraph}`}>
                 We are a full-service creative agency specializing in helping
                 brands grow fast. Engage your clients through compelling visuals
                 that do most of the marketing for you.
