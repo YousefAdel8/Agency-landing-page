@@ -1,5 +1,6 @@
 import './App.css'
 import EggSection from './Components/EggSection/EggSection'
+import GraphicSection from './Components/GraphicSection/GraphicSection'
 import Herosection from './Components/HeroSection/Herosection'
 import StandoutSection from './Components/StandoutSection/StandoutSection'
 
@@ -10,6 +11,7 @@ export default function App() {
       <Herosection/>
       <EggSection/>
       <StandoutSection/>
+      <GraphicSection/>
     </>
   )
 }

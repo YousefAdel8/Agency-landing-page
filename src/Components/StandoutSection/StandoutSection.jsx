@@ -10,7 +10,7 @@ export default function StandoutSection() {
           {/* Right Section */}
           <div className="col-md-6 col-12 d-flex justify-content-center align-items-center flex-column">
             <div className={`${Styles.StandoutText}`}>
-              <h2 className={`fw-bolder ${Styles.StandoutTextH2} pb-md-3`}>
+              <h2 className={`fw-bolder ${Styles.StandoutTextH2} ${Styles.FrauncesFont} pb-md-3`}>
                 Stand out to the right audience
               </h2>
               <p className="pb-md-2">
@@ -18,7 +18,7 @@ export default function StandoutSection() {
                 photographers, videographers, and copywriters, we’ll build and
                 extend your brand in digital places.
               </p>
-              <a href="#" className={`${Styles.StandoutTextLink}`}>
+              <a href="#" className={`${Styles.StandoutTextLink} ${Styles.FrauncesFont}`}>
                 Learn More
               </a>
             </div>

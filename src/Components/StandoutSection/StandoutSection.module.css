@@ -17,6 +17,10 @@
     max-width: 350px;
 }
 
+.FrauncesFont{
+    font-family: "Fraunces", sans-serif;
+}
+
 .StandoutTextLink{
     text-decoration: underline;
     text-decoration-color: #ff7063;

@@ -1,0 +1,42 @@
+.GraphicSection{
+    min-height: 80vh;
+}
+
+.Graphicimage{
+    background-image: url(../../assets/Main\ Task/sunnyside-agency-landing-page-main/images/desktop/image-graphic-design.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 400px;
+}
+
+.MaxWidthText{
+    max-width: 350px;
+}
+
+.Photographyimage{
+    background-image: url(../../assets/Main\ Task/sunnyside-agency-landing-page-main/images/desktop/image-photography.jpg);
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    min-height: 400px;
+}
+
+.FrauncesFont{
+    font-family: "Fraunces", sans-serif;
+}
+
+.GraphicH3{
+    color:  #25594c;
+}
+.GraphicParagragh{
+    color:  #144d40;
+}
+
+.PhotographyH3{
+    color:  #1b506b;
+}
+
+.PhotographyParagragh{
+    color:  #005277;
+}

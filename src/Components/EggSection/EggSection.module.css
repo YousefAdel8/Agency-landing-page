@@ -16,6 +16,9 @@
 .EggTextH2{
     max-width: 250px;
 }
+.FrauncesFont{
+    font-family: "Fraunces", sans-serif;
+}
 
 .EggTextLink{
     text-decoration: underline;
