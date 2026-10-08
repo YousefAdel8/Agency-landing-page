@@ -1,0 +1,30 @@
+
+
+.MilkBottlesImage {
+  background-image: url(../../assets/Main\ Task/sunnyside-agency-landing-page-main/images/desktop/image-gallery-milkbottles.jpg);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 500px;
+}
+.OrangeImage {
+  background-image: url(../../assets/Main\ Task/sunnyside-agency-landing-page-main/images/desktop/image-gallery-orange.jpg);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 500px;
+}
+.ConeImage {
+  background-image: url(../../assets/Main\ Task/sunnyside-agency-landing-page-main/images/desktop/image-gallery-cone.jpg);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 500px;
+}
+.SugarCubesImage {
+  background-image: url(../../assets/Main\ Task/sunnyside-agency-landing-page-main/images/desktop/image-gallery-sugarcubes.jpg);
+  background-position: center center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  min-height: 500px;
+}
