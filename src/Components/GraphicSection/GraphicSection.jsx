@@ -18,7 +18,7 @@ export default function GraphicSection() {
                 >
                   Graphic Design
                 </h3>
-                <p className={`text-center {${Styles.GraphicParagragh}`}>
+                <p className={`text-center ${Styles.GraphicParagragh}`}>
                   Great design makes you memorable. We deliver artwork that
                   underscores your brand message and captures potential clients’
                   attention.
@@ -39,7 +39,7 @@ export default function GraphicSection() {
                 >
                   Photography
                 </h3>
-                <p className={`text-center {${Styles.PhotographyParagragh}`}>
+                <p className={`text-center ${Styles.PhotographyParagragh}`}>
                   Increase your credibility by getting the most stunning,
                   high-quality photos that improve your business image.
                 </p>

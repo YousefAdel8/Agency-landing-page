@@ -1,30 +1,30 @@
+.galleryImage {
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  width: 100%;
+  aspect-ratio: 1 / 1; 
+}
 
+@media (min-width: 768px) {
+  .galleryImage {
+    aspect-ratio: auto;
+    min-height: 500px;
+  }
+}
 
-.MilkBottlesImage {
-  background-image: url(../../assets/Main\ Task/sunnyside-agency-landing-page-main/images/desktop/image-gallery-milkbottles.jpg);
-  background-position: center center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  min-height: 500px;
+.milkBottles {
+  background-image: url("../../assets/Main Task/sunnyside-agency-landing-page-main/images/desktop/image-gallery-milkbottles.jpg");
 }
-.OrangeImage {
-  background-image: url(../../assets/Main\ Task/sunnyside-agency-landing-page-main/images/desktop/image-gallery-orange.jpg);
-  background-position: center center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  min-height: 500px;
+
+.orange {
+  background-image: url("../../assets/Main Task/sunnyside-agency-landing-page-main/images/desktop/image-gallery-orange.jpg");
 }
-.ConeImage {
-  background-image: url(../../assets/Main\ Task/sunnyside-agency-landing-page-main/images/desktop/image-gallery-cone.jpg);
-  background-position: center center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  min-height: 500px;
+
+.cone {
+  background-image: url("../../assets/Main Task/sunnyside-agency-landing-page-main/images/desktop/image-gallery-cone.jpg");
 }
-.SugarCubesImage {
-  background-image: url(../../assets/Main\ Task/sunnyside-agency-landing-page-main/images/desktop/image-gallery-sugarcubes.jpg);
-  background-position: center center;
-  background-repeat: no-repeat;
-  background-size: cover;
-  min-height: 500px;
+
+.sugarCubes {
+  background-image: url("../../assets/Main Task/sunnyside-agency-landing-page-main/images/desktop/image-gallery-sugarcubes.jpg");
 }

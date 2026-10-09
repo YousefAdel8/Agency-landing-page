@@ -12,52 +12,55 @@ export default function TestimonialsSection() {
         </h2>
       </div>
       <div className="row text-center my-5">
-        <div class="col-md-4 mb-5 mb-md-0">
-          <div class="d-flex justify-content-center mb-4">
+        <div className="col-md-4 mb-5 mb-md-0">
+          <div className="d-flex justify-content-center mb-4">
             <img
               src={EmilyImage}
-              class="rounded-circle shadow-1-strong"
+              className="rounded-circle shadow-1-strong"
               width="70"
               height="70"
-            />
+              alt="Emily Image"
+              />
           </div>
-          <p class={`px-xl-3 ${Styles.TestimonialsParagraph} pb-4`}>
+          <p className={`px-xl-3 ${Styles.TestimonialsParagraph} pb-4`}>
             We put our trust in Sunnyside and they delivered, making sure our
             needs were met and deadlines were always hit.
           </p>
-          <h5 class={`mb-3 ${Styles.FrauncesFont} `}>Emily R.</h5>
+          <h3 className={`mb-3 ${Styles.FrauncesFont} ${Styles.TestimonialName}`}>Emily R.</h3>
           <p className={`${Styles.TestimonialsJob}`}>Marketing Director</p>
         </div>
-        <div class="col-md-4 mb-5 mb-md-0">
+        <div className="col-md-4 mb-5 mb-md-0">
           <div class="d-flex justify-content-center mb-4">
             <img
               src={ThomasImage}
               class="rounded-circle shadow-1-strong"
               width="70"
               height="70"
-            />
+              alt="Thomas Image"
+              />
           </div>
           <p class={`px-xl-3 ${Styles.TestimonialsParagraph} pb-4`}>
             Sunnyside’s enthusiasm coupled with their keen interest in our
             brand’s success made it a satisfying and enjoyable experience.
           </p>
-          <h5 class={`mb-3 ${Styles.FrauncesFont} `}>Thomas S.</h5>
+          <h3 class={`mb-3 ${Styles.FrauncesFont} ${Styles.TestimonialName}`}>Thomas S.</h3>
           <p className={`${Styles.TestimonialsJob}`}>Chief Operating Officer</p>
         </div>
-        <div class="col-md-4 mb-5 mb-md-0">
-          <div class="d-flex justify-content-center mb-4">
+        <div className="col-md-4 mb-5 mb-md-0">
+          <div className="d-flex justify-content-center mb-4">
             <img
               src={JennieImage}
-              class="rounded-circle shadow-1-strong"
+              className="rounded-circle shadow-1-strong"
               width="70"
               height="70"
+              alt="Jennie Image"
             />
           </div>
-          <p class={`px-xl-3 ${Styles.TestimonialsParagraph} pb-4`}>
+          <p className={`px-xl-3 ${Styles.TestimonialsParagraph} pb-4`}>
             Incredible end result! Our sales increased over 400% when we worked
             with Sunnyside. Highly recommended!
           </p>
-          <h5 class={`mb-3 ${Styles.FrauncesFont} `}>Jennie F.</h5>
+          <h3 className={`mb-3 ${Styles.FrauncesFont} ${Styles.TestimonialName}`}>Jennie F.</h3>
           <p className={`${Styles.TestimonialsJob}`}>Business Owner</p>
         </div>
       </div>
