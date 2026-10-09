@@ -25,8 +25,14 @@
 
 .EggTextLink{
     text-decoration: underline;
-    text-decoration-color: #f4d403;
+    text-decoration-color: rgba(244, 212, 3, 0.35);
     text-underline-offset: 4px;
+    text-decoration-thickness: 8px;
     cursor: pointer;
     color: black;
+    transition: text-decoration-color 0.3s ease;
+}
+
+.EggTextLink:hover{
+    text-decoration-color: #f4d403;
 }

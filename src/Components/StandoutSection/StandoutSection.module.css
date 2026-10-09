@@ -25,8 +25,14 @@
 
 .StandoutTextLink{
     text-decoration: underline;
-    text-decoration-color: #ff7063;
+    text-decoration-color: rgba(255, 112, 99, 0.35);
     text-underline-offset: 4px;
+    text-decoration-thickness: 8px;
     cursor: pointer;
     color: black;
+    transition: text-decoration-color 0.3s ease;
+}
+
+.StandoutTextLink:hover{
+    text-decoration-color: #ff7063;
 }

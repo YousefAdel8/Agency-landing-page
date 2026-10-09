@@ -30,20 +30,20 @@ export default function TestimonialsSection() {
           <p className={`${Styles.TestimonialsJob}`}>Marketing Director</p>
         </div>
         <div className="col-md-4 mb-5 mb-md-0">
-          <div class="d-flex justify-content-center mb-4">
+          <div className="d-flex justify-content-center mb-4">
             <img
               src={ThomasImage}
-              class="rounded-circle shadow-1-strong"
+              className="rounded-circle shadow-1-strong"
               width="70"
               height="70"
               alt="Thomas Image"
               />
           </div>
-          <p class={`px-xl-3 ${Styles.TestimonialsParagraph} pb-4`}>
+          <p className={`px-xl-3 ${Styles.TestimonialsParagraph} pb-4`}>
             Sunnyside’s enthusiasm coupled with their keen interest in our
             brand’s success made it a satisfying and enjoyable experience.
           </p>
-          <h3 class={`mb-3 ${Styles.FrauncesFont} ${Styles.TestimonialName}`}>Thomas S.</h3>
+          <h3 className={`mb-3 ${Styles.FrauncesFont} ${Styles.TestimonialName}`}>Thomas S.</h3>
           <p className={`${Styles.TestimonialsJob}`}>Chief Operating Officer</p>
         </div>
         <div className="col-md-4 mb-5 mb-md-0">
