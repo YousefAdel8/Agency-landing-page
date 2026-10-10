@@ -19,7 +19,7 @@ export default function TestimonialsSection() {
               className="rounded-circle shadow-1-strong"
               width="70"
               height="70"
-              alt="Emily Image"
+              alt="Portrait of Emily R."
               />
           </div>
           <p className={`px-xl-3 ${Styles.TestimonialsParagraph} pb-4`}>
@@ -36,7 +36,7 @@ export default function TestimonialsSection() {
               className="rounded-circle shadow-1-strong"
               width="70"
               height="70"
-              alt="Thomas Image"
+              alt="Portrait of Thomas S."
               />
           </div>
           <p className={`px-xl-3 ${Styles.TestimonialsParagraph} pb-4`}>
@@ -53,7 +53,7 @@ export default function TestimonialsSection() {
               className="rounded-circle shadow-1-strong"
               width="70"
               height="70"
-              alt="Jennie Image"
+              alt="Portrait of Jennie F."
             />
           </div>
           <p className={`px-xl-3 ${Styles.TestimonialsParagraph} pb-4`}>

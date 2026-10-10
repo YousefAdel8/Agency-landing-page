@@ -3,7 +3,7 @@ import Styles from "./FooterSection.module.css";
 export default function FooterSection() {
   return (
     <>
-      <div className={`${Styles.FooterSection} text-center`}>
+      <footer className={`${Styles.FooterSection} text-center`}>
         <h2 className={`${Styles.FooterH2} pt-5`}>sunnyside</h2>
         <nav aria-label="Footer navigation">
           <div className="d-flex justify-content-center align-items-center pt-4">
@@ -185,7 +185,7 @@ export default function FooterSection() {
             </svg>
           </a>
         </div>
-      </div>
+      </footer>
     </>
   );
 }
