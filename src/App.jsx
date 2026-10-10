@@ -1,11 +1,11 @@
 import "./App.css";
-import EggSection from "./components/EggSection/EggSection";
-import FooterSection from "./components/FooterSection/FooterSection";
-import FourPicturesSection from "./components/FourPicturesSection/FourPicturesSection";
-import GraphicSection from "./components/GraphicSection/GraphicSection";
-import HeroSection from "./components/HeroSection/HeroSection";
-import StandoutSection from "./components/StandoutSection/StandoutSection";
-import TestimonialsSection from "./components/TestimonialsSection/TestimonialsSection";
+import EggSection from "./Components/EggSection/EggSection";
+import FooterSection from "./Components/FooterSection/FooterSection";
+import FourPicturesSection from "./Components/FourPicturesSection/FourPicturesSection";
+import GraphicSection from "./Components/GraphicSection/GraphicSection";
+import HeroSection from "./Components/HeroSection/HeroSection";
+import StandoutSection from "./Components/StandoutSection/StandoutSection";
+import TestimonialsSection from "./Components/TestimonialsSection/TestimonialsSection";
 
 export default function App() {
   return (
